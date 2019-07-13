@@ -1,8 +1,8 @@
 # Traffic-Data-Analysis
 
 ## Objectives:
-To analyse changes in traffic congestion during weekends over a period of 7 to 10 years. 
-To observe and analyse any plausible relationships between incidents and traffic congestion during weekends. 
++ To analyse changes in traffic congestion during weekends over a period of 7 to 10 years. 
++ To observe and analyse any plausible relationships between incidents and traffic congestion during weekends. 
 
 ## Approach:
 The idea is to analyse weekend traffic congestion on each of the highways using data available on portal. The data is collected using sensors placed at different milestones/stations on the highways. We assume that there exists congestion when the average speed of  all vehicles passing through a station is low. The project hence uses average speed to define congestion at different stations on the highway.  
