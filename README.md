@@ -21,12 +21,12 @@ Samarth: Visual representation of data and pattern recognition.
 
 ## Project Milestones:
 
-Traffic data collection and creation of tables. 
-Heat map generation for one highway taking one year data (I-84 W)
-Mapping incidents on I-84 west to the generated heatmap. 
-Generate heat maps and plot incidents for 7 years on I-84 Westbound; US 26 Eastbound; I-205. 
-Come up with a methodology to generate heat maps and plot incidents  for any given highway across any time period.  
-Analyse the graphs and note important patterns/observations. (Also a  sub milestone at every stage from step 2)
+1. Traffic data collection and creation of tables. 
+2. Heat map generation for one highway taking one year data (I-84 W)
+3. Mapping incidents on I-84 west to the generated heatmap. 
+4. Generate heat maps and plot incidents for 7 years on I-84 Westbound; US 26 Eastbound; I-205. 
+5. Come up with a methodology to generate heat maps and plot incidents  for any given highway across any time period.  
+6. Analyse the graphs and note important patterns/observations. (Also a  sub milestone at every stage from step 2)
 
 
 
