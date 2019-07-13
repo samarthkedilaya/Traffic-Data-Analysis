@@ -15,9 +15,9 @@ Initially a set of three highways (I-84 Westbound; US 26 Eastbound; I-205) are t
 
 The team has three members. Alex, Samarth and Raghu. The idea is to work together at every step of the project and learn from each other. However, for achieving better outcomes we decided that each of us will take a lead on specific parts of the project and guide others. Below is a rough breakdown. 
 
-Alex: Congestion data analysis 
-Raghu: Incident data mapping and analysis 
-Samarth: Visual representation of data and pattern recognition. 
++ Alex: Congestion data analysis 
++ Raghu: Incident data mapping and analysis 
++ Samarth: Visual representation of data and pattern recognition. 
 
 ## Project Milestones:
 
